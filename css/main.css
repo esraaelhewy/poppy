@@ -10,3 +10,11 @@
     font-weight: bold;
     font-style: italic;
 }
+.card-body{
+    color:black !important;
+
+}
+.dark{
+    background-color: black;
+    color:white;
+}
